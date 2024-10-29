@@ -3,7 +3,7 @@ package Retos;
 public class Reto0 {
 
 	public static void main(String[] args) {
-		System.out.println("Hola mundo2222dawdawd");
+		System.out.println("Hola mundo");
 
 	}
 
